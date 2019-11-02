@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:andoid="http://schemas.android.com/apk/res/android"
+    andoid:orientation="vertical"
+    andoid:layout_width="match_parent"
+    andoid:layout_height="match_parent">
+
+    <Button
+        andoid:layout_width="wrap_content"
+        andoid:layout_height="wrap_content"
+        andoid:id="@+id/button1"
+        andoid:text="登录" />
+
+    <Button
+        andoid:layout_width="wrap_content"
+        andoid:layout_height="wrap_content"
+        andoid:id="@+id/button2"
+        andoid:text="提示" />
+
+</LinearLayout>
